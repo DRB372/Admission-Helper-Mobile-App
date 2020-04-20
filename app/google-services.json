@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "181570320330",
+    "firebase_url": "https://admissionhelper-b1b5c.firebaseio.com",
+    "project_id": "admissionhelper-b1b5c",
+    "storage_bucket": "admissionhelper-b1b5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181570320330:android:5cbb7a2dd05ffb95",
+        "android_client_info": {
+          "package_name": "com.example.admission"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181570320330-fsekh03t798vmvuic44m20a0avjab1kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn1UCTFhMJKC-6YGlqbldpyyJzUQRAN1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181570320330-fsekh03t798vmvuic44m20a0avjab1kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

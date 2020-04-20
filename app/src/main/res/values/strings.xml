@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Admission Helper</string>
+    <string name="choose_degree">Choose degree Program</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="degree_name">
+        <item>CS</item>
+        <item>SE</item>
+        <item>IT</item>
+    </string-array>
+</resources>
